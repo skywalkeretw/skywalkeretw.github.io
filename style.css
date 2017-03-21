@@ -1,3 +1,12 @@
+*{
+    background-image: url("rainbow-wallpaper.jpg") ;
+
+}
+
+
+
+
+
 /*Navbar________________________________________________________________________________*/
 .navbar {
     list-style-type: none;
@@ -6,6 +15,7 @@
     overflow: hidden;
     /*background-color: darkgrey ;*/
     background-image: url("https://lh3.googleusercontent.com/-xJ5TLhenMig/AAAAAAAAAAI/AAAAAAAAAAA/SWSZCIg7Hqo/photo.jpg");
+
 }
 
 .nav {
@@ -102,9 +112,10 @@ body{
     /*background-color: #cccccc;
     background-image: url("https://lh3.googleusercontent.com/-xJ5TLhenMig/AAAAAAAAAAI/AAAAAAAAAAA/SWSZCIg7Hqo/photo.jpg");
     */
-    background-color: black;
+    /*background-color: black;*/
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: white;
+
 }
 
 .title , .navbar{
