@@ -10,7 +10,7 @@ var max = 5
 var el = document.getElementById('random')
 
 
-var words = ['Krokette','Rattenfalle', 'Staubsauger', 'Aktienhandel', 'Schublade', 'Schinken', 'Mirco Ist Scheiße', 'Nein', 'Huhn', 'Hai', 'Elefant', 'Har!', 'Herstellung', 'Schlecht', 'Stille']
+var words = ['Krokette','Rattenfalle', 'Wer', 'Aktienhandel', 'Schublade', 'Keule', 'Mirco carryed the team', 'Nein', 'Huhn', 'Hai', 'Elefant', 'Har!', 'Herstellung', 'Schlecht', 'Stille']
 
 
 

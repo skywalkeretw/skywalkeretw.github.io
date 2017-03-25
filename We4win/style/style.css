@@ -5,6 +5,7 @@ body{
     color: white;
     background: none;
     background-image: url("../media/background_pictures/rainbow-wallpaper.jpg") ;
+    background-size: cover;
 }
 
 
